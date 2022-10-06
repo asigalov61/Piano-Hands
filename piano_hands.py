@@ -591,7 +591,7 @@ if len(notes) != 0:
                                                         output_signature = 'Piano Hands',  
                                                         output_file_name = '/content/Piano-Hands-Music-Composition', 
                                                         track_name='Project Los Angeles',
-                                                        list_of_MIDI_patches=[0, 0, 32, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+                                                        list_of_MIDI_patches=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
                                                         number_of_ticks_per_quarter=500)
 
 print('=' * 70)
