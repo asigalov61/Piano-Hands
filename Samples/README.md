@@ -1,4 +1,4 @@
-# Piano HAnds Output Samples
+# Piano Hands Output Samples
 
 ***
 
