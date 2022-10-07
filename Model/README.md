@@ -4,17 +4,17 @@
 
 ## Model Stats:
 
-### FLoss: 0.3038 CE
-### VLoss: 0.2738 CE
-### Acc: 0.9002 CE
+### FLoss: 0.0994 CE
+### VLoss: 0.0999 CE
+### Acc: 0.9734 CE
 
 ***
 
-![Piano_Hands_Training_Loss_Graph](https://user-images.githubusercontent.com/56325539/194282816-ed065ddc-82ce-4596-8f45-961959ecf52f.png)
+![Piano_Hands_Training_Loss_Graph](https://user-images.githubusercontent.com/56325539/194497895-a0e08d49-f7fa-4fa4-aea0-323c649d9adb.png)
 
 ***
 
-![Piano-Hands-Tokens-Embeddings-Plot](https://user-images.githubusercontent.com/56325539/194282876-984590fa-0fbe-43cd-a22e-65af78df6604.png)
+![Piano-Hands-Tokens-Embeddings-Plot](https://user-images.githubusercontent.com/56325539/194497910-ab414861-6241-4da4-a6a9-9bdbc568233e.png)
 
 ***
 
