@@ -423,7 +423,7 @@ print('=' * 70)
 """# (LOAD/RELOAD)"""
 
 #@title LOAD/RELOAD Piano Hands  Model
-full_path_to_trained_model_checkpoint = "/content/Piano-Hands/Model/Piano_Hands_Trained_Model_13940_steps_0.3038_loss.pth" #@param {type:"string"}
+full_path_to_trained_model_checkpoint = "/content/Piano-Hands/Model/Piano_Hands_Trained_Model_8000_steps_0.0994_loss.pth" #@param {type:"string"}
 
 print('Loading Piano Hands model...')
 config = GPTConfig(132, 
